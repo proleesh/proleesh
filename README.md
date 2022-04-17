@@ -3,12 +3,12 @@
 ## TECH STACK 技术栈 技術棧 テクノロジースタック 기술 스택
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 ```
- ______________________                                      1. Hello!!!
-< Hello, I'm Sunghyuk! >                                     2. Where are you from?
- ----------------------                                      3. What do you want to know?
-   \                                                         4. How did you find me?
-    \                                                        5. Are you a racist?
-     \                                                       6. What do you think about the Russian-Ukrainian war?
+ ______________________                                      
+< Hello, I'm Sunghyuk! >                                     
+ ----------------------                                      
+   \                                                         
+    \                                                        
+     \                                                       
                 '-.
       .---._     \ .--'
     /       `-..__)  ,-'
@@ -29,15 +29,6 @@
 ![image](https://user-images.githubusercontent.com/57159010/161992344-038422fe-9b10-4729-9908-bfaa3e9875b8.png)
 
 
-- 🔭 I’m currently studied on Semyung University.
-- 🌱 I’m currently learning Information Technology.
-- 👯 I’m looking to collaborate on my classmate.
-- 💬 Ask me about 🖥️computer science or coding knowledge or food ^^
-- 📫 How to reach me: merci726@semyung.ac.kr or personal merci726@yahoo.com
-- 😄 Pronouns: Oh~ Shit!!! What the Hell??? 아~ 씨발!!! 卧槽~
-- ⚡ Fun fact: I don't have a girl friend ^^! Because I have someone I like, I'm waiting for her!
-
->- Studied at Semyung University
->- From Seongnam, Korea
->- My favorite food is Pizza, Noodle, Kimchi, Kimbob, Naengmyeon, Cheese, Lamb Skewers...
+>- From earth🌏
+>- My favorite food is Pizza🍕, Noodle🍜, Kimchi, Kimbob, Naengmyeon(Korean Noodles), Cheese🧀, Lamb Skewers, Jiaozi(Chinese Dumplings)🥟, Sushi🍣...
 >- 2019.8 begin

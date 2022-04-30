@@ -1,7 +1,7 @@
 # </> Hello👋, This is PROLEESH GitHub AREA😊😁😀😄                                                
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230BD93E&title_bg=%2300B6EF&icon=github.svg&icon_color=%23BC00F9&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 ## TECH STACK 技术栈 技術棧 テクノロジースタック 기술 스택
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 ```
  ______________________                                      
 < Hello, I'm Sunghyuk! >                                     

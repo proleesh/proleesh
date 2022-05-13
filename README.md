@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Sunghyuk%20Lee&animation=scaleIn&fontSize=90)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=proleesh&fontAlign=80&fontAlignY=40&color=gradient&fontSize=50)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=400&text=Sunghyuk%20Lee&animation=scaleIn&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=proleesh&animation=scaleIn&fontAlign=50&fontAlignY=40&color=gradient&fontSize=30)
 # </> Hello👋, This is PROLEESH GitHub AREA😊😁😀😄                                                
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230BD93E&title_bg=%2300B6EF&icon=github.svg&icon_color=%23BC00F9&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 ## TECH STACK 技术栈 技術棧 テクノロジースタック 기술 스택

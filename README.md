@@ -25,9 +25,9 @@
   \
 ¯\_(ツ)_/¯
 ```
-![image](https://user-images.githubusercontent.com/57159010/161996774-c4d4a9a4-a43b-4f05-91ff-8ef28fe5cb7b.png)
-![image](https://user-images.githubusercontent.com/57159010/161993067-d3050b79-d1fe-4906-baab-f29f2ecd2f1d.png)
-![image](https://user-images.githubusercontent.com/57159010/161992344-038422fe-9b10-4729-9908-bfaa3e9875b8.png)
+![image](https://user-images.githubusercontent.com/57159010/161996774-c4d4a9a4-a43b-4f05-91ff-8ef28fe5cb7b.png) &nbsp;
+![image](https://user-images.githubusercontent.com/57159010/161993067-d3050b79-d1fe-4906-baab-f29f2ecd2f1d.png) &nbsp;
+![image](https://user-images.githubusercontent.com/57159010/161992344-038422fe-9b10-4729-9908-bfaa3e9875b8.png) &nbsp;
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=proleesh&show_icons=true&theme=gotham" alt="proleesh" /><br>
 
 >- From earth🌏

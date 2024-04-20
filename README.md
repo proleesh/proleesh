@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">
         <samp>&gt; Hello, I am
-                <b><a>Sung-Hyuk Lee</a></b>
+                <b><a href="https://proleesh.github.io">Sung-Hyuk Lee</a></b>
         </samp>
   <img src="https://leetcard.jacoblin.cool/proleesh?ext=heatmap&theme=light,unicorn">
 </h1>

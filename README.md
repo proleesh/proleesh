@@ -5,7 +5,12 @@
         <samp>&gt; Hello, I am
                 <b><a href="https://proleesh.github.io">Sung-Hyuk Lee</a></b>
         </samp>
+
   <img src="https://leetcard.jacoblin.cool/proleesh?ext=heatmap&theme=light,unicorn">
+  <br>
+        <samp>
+                <b>Life is really simple, but we insist on making it complicated.</b>
+        </samp>
 </h1>
 <div align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />

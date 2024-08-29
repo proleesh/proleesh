@@ -16,6 +16,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,bun,ubuntu,aws,jenkins,react,docker,git,nginx" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,bun,ubuntu,aws,jenkins,react,docker,git,nginx,flutter" />
   </a>
 </p>

@@ -4,8 +4,11 @@
 <h1 align="center">
         <samp>&gt; Hello👋, I am
                 <b><a href="https://proleesh.github.io" target="_blank">Sung-Hyuk Lee</a></b>
+                <br>
+                &gt; Hello world could save world.
+                <br>
+                &gt; Made by Proleesh
         </samp>
-        
 </h1>
 <div align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />

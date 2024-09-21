@@ -5,7 +5,7 @@
         <samp>&gt; Hello👋, I am
                 <b><a href="https://proleesh.github.io" target="_blank">Sung-Hyuk Lee</a></b>
                 <br>
-                &gt; Hello world could save world.
+                &gt; "Hello world" could save world.
                 <br>
                 &gt; Made by Proleesh
         </samp>
